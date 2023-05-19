@@ -1,2 +1,6 @@
-# open-resources
-A list open resources
+# Open Resources
+> A list open resources
+
+# Definition
+
+- [Open Definition](https://opendefinition.org/)
