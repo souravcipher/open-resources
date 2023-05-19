@@ -6,6 +6,6 @@
 - [Open Definition](https://opendefinition.org/)
 
 # Open Science
-
+- https://en.wikipedia.org/wiki/Open_science
 
 # Open Source
