@@ -4,3 +4,8 @@
 # Definition
 
 - [Open Definition](https://opendefinition.org/)
+
+# Open Science
+
+
+# Open Source
