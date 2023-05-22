@@ -12,3 +12,6 @@
 
 ## Definition 
 - https://opensource.org/osd/ 
+
+## Guide
+- https://opensource.guide/
