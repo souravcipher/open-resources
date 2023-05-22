@@ -9,3 +9,6 @@
 - https://en.wikipedia.org/wiki/Open_science
 
 # Open Source
+
+## Definition 
+- https://opensource.org/osd/ 
