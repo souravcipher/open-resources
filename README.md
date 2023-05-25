@@ -16,4 +16,11 @@
 ## Guide
 - https://opensource.guide/
 
-## Open Source Program Office
+### Open Source Program Office (OSPO)
+
+## Inner Source
+
+### Inner Source Program Office (ISPO)
+
+
+
