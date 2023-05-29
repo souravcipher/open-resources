@@ -1,5 +1,5 @@
 # Open Resources
-> A list open resources
+> A list of open resources
 
 # Definition
 
