@@ -8,6 +8,10 @@
 # Open Science
 - https://en.wikipedia.org/wiki/Open_science
 
+# Open Commununity
+
+- [Open community approach](https://en.wikiversity.org/wiki/Open_community_approach)
+
 # Open Source
 
 ## Definition 
