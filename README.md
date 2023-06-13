@@ -32,3 +32,7 @@
 
 ## What is
 - https://guides.library.pdx.edu/c.php?g=931273&p=6711316
+
+# Others
+
+- https://blog.gardeviance.org/2013/02/openness-vs-strategy.html
