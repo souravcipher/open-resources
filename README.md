@@ -4,6 +4,7 @@
 # Definition
 
 - [Open Definition](https://opendefinition.org/)
+- [Open Work Definition](https://openworkdefinition.com/)
 
 # Open Science
 - https://en.wikipedia.org/wiki/Open_science
